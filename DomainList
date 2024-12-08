@@ -1,6 +1,5 @@
- lfodown01-b.cloudsink.net
- ts01-b.cloudsink.net
 *.adhybridhealth.azure.com
+*.ambrahealth.com
 *.arubanetworks.com
 *.aspenade.com
 *.aspeninvoicing.com
@@ -8,10 +7,10 @@
 *.astrazeneca.com
 *.astrazenecagrants.com
 *.auvik.com
-*.azpaymentdisclosureinternal.com
-*.azspeakercontracting.com
 *.azure.com
 *.azureedge.net
+*.azpaymentdisclosureinternal.com
+*.azspeakercontracting.com
 *.azvitals.com
 *.blenreprems.com
 *.carbonite.com
@@ -23,13 +22,19 @@
 *.cologuardhcp.com
 *.conferdeploy.net
 *.connectwise.com
+*.cencora.com
 *.custhub.com
 *.datto.com
 *.dattobackup.com
+*.dc.applicationinsights.azure.com
+*.dc.applicationinsights.microsoft.com
+*.dc.services.visualstudio.com
 *.duosecurity.com
 *.five9.com
 *.githubusercontent.com
+*.global.azure-devices-provisioning.net
 *.gov
+*.hematopass.com
 *.hhs.gov
 *.hrsa.gov
 *.humanity.com
@@ -45,6 +50,8 @@
 *.newcenturyhealth.com
 *.ninjarmm.com
 *.npmjs.org
+*.nucleusinventory.com
+*.nuancehdp.com
 *.oncoemr.com
 *.oncologysupply.com
 *.oscautomation.com
@@ -53,13 +60,17 @@
 *.paloaltonetworks.com
 *.passportalmsp.com
 *.powershellgallery.com
+*.psg-prod-iothub.azure-devices.net
+*.psg-prod-iothub-dps.azure-devices-provisioning.net
 *.questdiagnostics.com
 *.quintilesinteractive.com
 *.radiologynotifications.com
 *.radltd.com
+*.rdcprd.pfizer.com
 *.ringcentral.com
 *.safeconsolecloud.io
 *.scheduleanywhere.com
+*.securemail.foundationmedicine.com
 *.secureworks.com
 *.sfbassets.com
 *.sharepointonline.com
@@ -67,6 +78,7 @@
 *.skype.com
 *.skypeforbusiness.com
 *.sotelips.net
+*.spscustomer.b2clogin.com
 *.tenable.com
 *.touchprogram.com
 *.ts01-b.cloudsink.net
@@ -79,18 +91,26 @@
 *.worxbranding.com
 *.zoom.us
 account.live.com
+ambrahealth.com
 astrazenecagrants.com
 azpaymentdisclosureinternal.com
 blenreprems.com
+calyx.ambrahealth.com
 clientconfig.passport.net
 github.com
 go.microsoft.com
 labtech.pathforwardit.com
 login.live.comove
+login.microsoft.com
 login.windows.net
+mdanderson.org
 partnerview.astrazeneca-us.com
+pecos.cms.hhs.gov
 portal.networksgroup.com
 precisiononcology.exactsciences.com
+rdcprd.pfizer.com
+securemail.foundationmedicine.com
+services.hdp.amerisourcebergen.com
 us3.app.liongard.com
 windowsphone.com
 www.availity.com
@@ -98,4 +118,3 @@ www.azandmeapp.com
 www.azspeakercontracting.com
 www.msftconnecttest.com
 www.msftncsi.com
-
