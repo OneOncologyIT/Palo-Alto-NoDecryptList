@@ -62,6 +62,7 @@
 *.powershellgallery.com
 *.psg-prod-iothub.azure-devices.net
 *.psg-prod-iothub-dps.azure-devices-provisioning.net
+*.pubstrat.com
 *.questdiagnostics.com
 *.quintilesinteractive.com
 *.radiologynotifications.com
@@ -118,3 +119,4 @@ www.azandmeapp.com
 www.azspeakercontracting.com
 www.msftconnecttest.com
 www.msftncsi.com
+*.pubstrat.com
