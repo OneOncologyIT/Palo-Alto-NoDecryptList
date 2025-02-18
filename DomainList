@@ -132,3 +132,4 @@ speechid.b2clogin.com
 datrowayHCP.com
 printercloud.com
 *.printercloud.com
+*.s3.us-east-2.amazonaws.com
