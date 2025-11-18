@@ -161,3 +161,14 @@ oncologyorder.amerisourcebergen.com
 *.dsapp.io
 *.vimeocdn.com
 *.sonicwall.com
+*.unlimitedfinancials.cloud
+*.unlimitedfinancials.exchange
+*.unlimited.systems sr.unlimitedfinancials.cloud
+*.pendo.unlimited.systems
+*.stripe.network
+*.stripe.com
+*.instana.io
+*.statuspage.io
+*.service.signalr.net
+*.azureedge.net
+*.azurefd.net fonts.gstatic.com
