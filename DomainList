@@ -177,3 +177,7 @@ agent.jumpcloud.com
 google.com
 *.apple.com
 files.deb-share.com
+*.zoom.us/
+*.zoomapp.cloud/
+zoom.us/
+zoomapp.cloud/
