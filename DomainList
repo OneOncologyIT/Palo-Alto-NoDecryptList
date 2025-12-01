@@ -181,3 +181,12 @@ files.deb-share.com
 *.zoomapp.cloud/
 zoom.us/
 zoomapp.cloud/
+www.google.com
+accounts.google.com
+clients3.google.com
+drive.google.com
+www.googleapis.com
+ssl.gstatic.com
+*.docs.google.com
+*.drive.google.com
+*.googleusercontent.com
