@@ -194,3 +194,10 @@ ssl.gstatic.com
 edgepilot.com
 *.edgepilot.com
 *.addigy.com
+rubygems.org
+gems.contribsys.com
+*.github.com
+proxy.golang.org
+registry.yarnpkg.com
+npm.pkg.github.com/
+registry.npmjs.org
